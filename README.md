@@ -3,7 +3,7 @@
 For this challenge, my approach was to find the easiest and lightest way to scrape the required data. 
 I only use the Wikipedia API and the Google search API to collect the data.
 
-Once the data was scrapped I made a map visualization using Tableau and I also made a map using folium. 
+Once the data was scraped I made a map visualization using Tableau and I also made a map using folium. 
 
 You can find both in this repo.
 
